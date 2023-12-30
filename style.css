@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Red Hat Display", sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,6 +13,14 @@ body {
     overflow: hidde;
 }
 
+body button{
+    background: none;
+    border: none;
+}
+
+body a{
+    text-decoration: none;
+}
 .clock {
     display: flex;
 }

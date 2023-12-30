@@ -22,7 +22,7 @@ if (t<0){
     document.getElementById("minutes").innerHTML = "00";
     document.getElementById("seconds").innerHTML = "00";
     document.getElementById("day").innerHTML = "00"
-    document.getElementById("ampm").innerHTML = "HAPPY NEW YEAR CHRIT THE WAY ASSEMBLY";
+    document.getElementById("ampm").innerHTML = "HAPPY NEW YEAR CHRIST THE WAY ASSEMBLY";
 }
 
 
