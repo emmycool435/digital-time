@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url(./images/back.jpg) no-repeat center center / cover;
+    background: url(/images/newyearbackround.jpg) no-repeat center center / cover;
     overflow: hidde;
 }
 
