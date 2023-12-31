@@ -25,15 +25,20 @@ body{
     background-color: var(--Pale-blue);
     font-family: "Red Hat Display", sans-serif;
     font-size: 16px;
+    overflow: hdden;
    
 
 }
 
-body button{
+body a{
     font-size: 50px;
-    margin: 50px;
-    left: 500px;
+    margin: 50px auto;
+    text-align: center;
+    text-decoration: none;
+    color:var(--Dark-blue);
+    
 }
+
 body .credit{
     display: flex;
     justify-content: center;
@@ -46,6 +51,7 @@ body .credit{
     border-radius: 20px;
     overflow: hidden;
     margin: 30px ;
+    text-align: center;
 }
 
 
@@ -58,4 +64,15 @@ body .credit{
 
 .hero-image{
     width: 100%;
+}
+
+.card img{
+    height: 600px;
+}
+
+.card p{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    color:#000;
 }
